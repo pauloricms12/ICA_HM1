@@ -3,3 +3,4 @@ seaborn
 matplotlib
 ucimlrepo
 jinja2
+scikit-learn
